@@ -51,3 +51,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMustafa2201&" alt="AhmedMustafa2201" /></p>
+
+### 💭 Today's Quote :
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="AhmedMustafa2201" /></p>
