@@ -1,7 +1,7 @@
 <h1 align="center">🅷🅸 👋 🅸'🅼 🅰🅷🅼🅴🅳 🅼🆄🆂🆃🅰🅵🅰</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=ahmedmustafa2201&icon=6&color=3" alt="ahmedmustafa2201" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmustafa2201&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmustafa2201" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmustafa2201" alt="ahmedmustafa2201" /></a> </p>
 
