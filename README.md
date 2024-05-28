@@ -7,10 +7,6 @@
 
 - 👯 I’m looking to collaborate on **.Net core, JS projects**
 
-- 🤝 I’m looking for help with **.Net core, JS, python projects**
-
-- 💬 Ask me about **any skill listed below anytime 🙂**
-
 - 📫 How to reach me **program22b@gmail.com**
 
 - ⚡ Fun fact **Computers are almost humans, but humans are still worthy!😅**
